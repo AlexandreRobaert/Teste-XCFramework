@@ -9,6 +9,6 @@ import Foundation
 
 public class Main {
     static func teste() {
-        print("função do framework 1.0! 🎉")
+        print("função do framework 1.0!")
     }
 }
